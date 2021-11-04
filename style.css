@@ -1,0 +1,56 @@
+.m
+{
+    top:0px;
+    z-index:99999;
+    position: sticky;
+}
+.p1
+{
+    font-size:20px;
+    padding: 6px 20px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.p1 i
+{
+    float: right;
+}
+
+.title
+{
+    font-family: monospace;
+    font-size: 30px;
+}
+.first
+{
+    font-family: monospace;
+    font-size: 30px;
+}
+#pro
+{
+    margin-top:20px;
+    margin-bottom: 20px;
+    height: 400px;
+border-radius: 75px;
+}
+html:hover
+{
+    scroll-behavior: smooth;
+}
+.rock
+{
+    height: 500px;
+    width:500px;
+}
+.rock2
+{
+    height: 500px;
+    width:500px;
+}
+.rock3
+{
+    height: 500px;
+    width:500px;
+}
